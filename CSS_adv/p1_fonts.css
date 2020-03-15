@@ -1,0 +1,13 @@
+/*cssfontstack.com*/
+/*fonts.google.com*/
+/*fontslibraray.org*/
+h2{font-family: "futura";}
+p { font-family : monospace;}
+body{font-size : 14px;}
+#two {font-size : 2em;}
+p { font-style : italic;
+font-weight : bold;}
+h2{text-align:center;
+text-decoration : overline;}
+/* 1em=16px default
+2em= 2 * 16px double default */

@@ -1,0 +1,23 @@
+.firstdiv{
+color : blue ;
+}
+.seconddiv{
+color: red;
+}
+
+#store {
+color : red;
+background-color: green ;
+border-color : black;
+border-style: solid;
+text-decoration : line-through;
+}
+ul {
+border :4px double black
+}
+li a {color: orange;}
+li a[href="https://www.google.com"]{
+color : yellow;
+border:thin dotted yellow;
+background-color: gray;
+}

@@ -1,0 +1,12 @@
+div{
+color: yellow ;
+background-color : rgb(179, 245, 66) ;
+border-color : green;
+border-style : double dotted;
+border-width : 4px;
+}
+span {color : red ;}
+body {
+/*background : url(url_of_image)*/
+background-color : gray}
+/*url("C:\Users\SYNTINIL\PycharmProjects\practice\Django\CSS_basic\dog.jpg")}*/

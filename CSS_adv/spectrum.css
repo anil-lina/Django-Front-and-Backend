@@ -1,0 +1,45 @@
+h3 {  font-family: 'GrundschriftRegular';
+   font-weight: normal;
+   font-style: normal;
+   text-align:center;
+   text-weight : bold;
+
+   }
+.color {
+ margin : auto;
+}
+  #one {
+  width:200px;
+  height:400px;
+  background-color: #5E574D;
+  border:10px solid white
+
+  }
+  #two {
+  width:200px;
+  height:400px;
+  background-color: #C3DFE0;
+  border:10px solid white
+
+  }
+  #three {
+  width:200px;
+  height:400px;
+  background-color: #BCD979;
+  border:10px solid white
+
+  }
+  #four {
+  width:200px;
+  height:400px;
+  background-color: #9DAD6F;
+  border:10px solid white
+
+  }
+  #five {
+  width:200px;
+  height:400px;
+  background-color: #7D6D61;
+  border:10px solid white
+
+  }
